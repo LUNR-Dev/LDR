@@ -1,0 +1,11 @@
+local qwf = "Lunar-Eclipse111"
+--game.Players.LocalPlayer.PlayerGui.LDR:Destroy()
+local loc = loadstring(game:HttpGet('https://raw.githubusercontent.com/'..qwf..'/Swift.LOL/main/Swift.Load'))()
+--game:GetService("Players").LocalPlayer:WaitForChild("PlayerGui").LDR:Destroy();
+local ioyagwefguioyqwergghuiopwervgbhuiol = qwf
+loc:load(3,function ()
+--game.CoreGui.LDR:Destroy();
+	loadstring(game:HttpGet('https://raw.githubusercontent.com/'..ioyagwefguioyqwergghuiopwervgbhuiol..'/Swift.LOL/Scripts/games/Assassin'))()
+end)
+wait(0.2)
+
