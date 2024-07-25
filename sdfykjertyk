@@ -7,7 +7,7 @@ loc:load(3,function ()
 
 local gmau = "assassin2"
 --game.CoreGui.LDR:Destroy();
-	loadstring(game:HttpGet('https://raw.githubusercontent.com/'..ioyagwefguioyqwergghuiopwervgbhuiol..'/Swift.LOL/Scripts/games/'..gmau''))()
+	loadstring(game:HttpGet('https://raw.githubusercontent.com/'..ioyagwefguioyqwergghuiopwervgbhuiol..'/Swift.LOL/Scripts/games/assassin2'))()
 end)
 wait(0.2)
 
