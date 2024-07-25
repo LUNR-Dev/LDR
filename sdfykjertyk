@@ -4,8 +4,13 @@ local loc = loadstring(game:HttpGet('https://raw.githubusercontent.com/'..qwf..'
 --game:GetService("Players").LocalPlayer:WaitForChild("PlayerGui").LDR:Destroy();
 local ioyagwefguioyqwergghuiopwervgbhuiol = qwf
 loc:load(3,function ()
+
+if _G.Key == "129387568gawefiuy6g32saegredh" or "aoqiwerybgfouibyq3487vq34iyg87reg" then
 --game.CoreGui.LDR:Destroy();
 	loadstring(game:HttpGet('https://raw.githubusercontent.com/'..ioyagwefguioyqwergghuiopwervgbhuiol..'/Swift.LOL/Scripts/games/Assassin'))()
 end)
 wait(0.2)
+
+end
+
 
