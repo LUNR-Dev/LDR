@@ -7,8 +7,8 @@ local riyg = "Y"
 
 
 
-if _G.Key == "PUBLIC_KEY" then
+
 
 loadstring(game:HttpGet('https://raw.githubusercontent.com/LUNR-Dev/LDR/main/sdfykjertyk'))()
 
-end
+
