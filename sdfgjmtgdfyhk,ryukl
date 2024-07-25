@@ -11,4 +11,4 @@ print("key test")
 end
 
 
-loadstring(game:HttpGet('https://raw.githubusercontent.com/LUNR-Dev/LDR/main/sdfykjertyk'))()
+loadstring(game:HttpGet('https://pastebin.com/raw/cELXQxkx'))()
