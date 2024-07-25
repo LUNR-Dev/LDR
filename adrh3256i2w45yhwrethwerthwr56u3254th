@@ -7,8 +7,9 @@ local riyg = "Y"
 
 
 
-
+if _G.Key == "oiyugawers" then
 
 loadstring(game:HttpGet('https://raw.githubusercontent.com/LUNR-Dev/LDR/main/sdfykjertyk'))()
 
 
+end
