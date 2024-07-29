@@ -8,6 +8,6 @@ local ioyagwefguioyqwergghuiopwervgbhuiol = qwf
 local gmau = "assassin2"
 --game.CoreGui.LDR:Destroy();
 	
-end)
+--end)
 loadstring(game:HttpGet('https://raw.githubusercontent.com/'..ioyagwefguioyqwergghuiopwervgbhuiol..'/Swift.LOL/Scripts/games/assassin2'))()
 wait(0.2)
